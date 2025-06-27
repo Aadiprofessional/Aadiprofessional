@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered apps with React Native and Node.js  <br>🤝 I’m looking to collaborate on impactful mobile and web projects  <br>🙌 I’m looking for help with open-source contributions and advanced AI use-cases  <br>🌱 I’m currently learning Web3, DevOps, and advanced backend scaling  <br>💬 Ask me about cross-platform development, Supabase, or hackathon strategies  <br>⚡ Fun fact: I once built an app with 1M+ downloads during a college internship!<br>
+🔭 I’m currently working in Hong Kong<br>🤝 I’m looking to collaborate on impactful mobile and web projects  <br>🙌 I’m looking for help with open-source contributions and advanced AI use-cases  <br>🌱 I’m currently learning Web3, DevOps, and advanced backend scaling  <br>💬 Ask me about cross-platform development, Supabase, or hackathon strategies  <br>⚡ Fun fact: I once built an app with 1M+ downloads during a college internship!<br>
 
 
 ## 🌐 Socials:
